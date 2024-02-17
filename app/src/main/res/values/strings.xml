@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Live Attedance Apps</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="history">History</string>
+    <string name="attendance">Attendance</string>
+    <string name="location">Location</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_location">Current Location</string>
+    <string name="default_text">default text</string>
+    <string name="your_foto">Your foto</string>
+    <string name="check_in">CHECK IN</string>
+    <string name="gogle_map_key">AIzaSyDN-tsDK9XsA352b6yIJMSYWHqJXJAvld4</string>
+</resources>
